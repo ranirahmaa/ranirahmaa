@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-my name is `Rani Rahmawati`
+
+# Profile
+My name is `Rani Rahmawati`
+I'm studying at Universitas Pendidikan Indonesia, I'm taking Kewirausahaan major
+
